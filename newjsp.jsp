@@ -18,7 +18,7 @@
             <br>*and lawyers who can represent you<br> Know Your rights and Bring Discriminatory People to Justice!</h1>
 
         <form name="Name Input Form" action="response.jsp">
-            Please enter a word(s) relating to your issue separated by a comma (ex: racism, sexism):
+            Please enter a word(s) relating to your issue separated by a comma (ex: lawyers, laws):
             <input type="text" name="name" value="" />
             <input type="submit" value="OK" />
         </form>
