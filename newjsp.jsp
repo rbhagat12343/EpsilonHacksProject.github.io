@@ -15,7 +15,7 @@
 
         <h1>Welcome to -------. This is a website for: <br>*People being discriminated in any type of way at work,
             <br>*Finding information on laws pertaining to discrimination,
-            <br>*and (something else idk what to put here)<br> Know Your rights and Bring Discriminatory People to Justice!</h1>
+            <br>*and lawyers who can represent you<br> Know Your rights and Bring Discriminatory People to Justice!</h1>
 
         <form name="Name Input Form" action="response.jsp">
             Please enter a word(s) relating to your issue separated by a comma (ex: racism, sexism):
