@@ -22,6 +22,10 @@
             <input type="text" name="name" value="" />
             <input type="submit" value="OK" />
         </form>
+         <p>Welcome to -------. This is a website for: <br>*People being discriminated in any type of way at work,
+            <br>*Employment discrimination happens when an employee or job applicant is treated unfavorably because of his or her race,
+             <br>skin color, national origin, gender, disability, religion, or age. </p>
+
         
     </body>
 </html>
