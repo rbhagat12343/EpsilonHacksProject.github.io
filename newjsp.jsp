@@ -19,6 +19,11 @@
         
         <h2>Employment discrimination happens when an employee or job applicant is treated unfavorably because of his or her race,
              <br>skin color, national origin, gender, disability, religion, or age. </h2>
+        
+        <h4> Examples of discrimination include denying certain employees compensation or benefits, paying equally-qualified employees 
+            <br>in the same position different salaries, discriminating when assigning disability leave, maternity leave, 
+            <br>or retirement options, and denying use of company facilities.</h4>
+
 
         <form name="Name Input Form" action="response.jsp">
             Please enter a word(s) relating to your issue separated by a comma (ex: racism, sexism):
