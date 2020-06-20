@@ -21,7 +21,7 @@
              <br>skin color, national origin, gender, disability, religion, or age. </h2>
 
         <form name="Name Input Form" action="response.jsp">
-            Please enter a word(s) relating to your issue separated by a comma (ex: lawyers, laws):
+            Please enter a word(s) relating to your issue separated by a comma (ex: racism, sexism):
             <input type="text" name="name" value="" />
             <input type="submit" value="OK" />
         </form>
