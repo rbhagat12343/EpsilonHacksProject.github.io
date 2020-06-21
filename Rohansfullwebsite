@@ -1,4 +1,4 @@
-<!-- 
+<!--
     Document   : newjsp
     Created on : Jun 18, 2020, 6:18:42 PM
     Author     : vinishd
@@ -33,7 +33,7 @@
     h3    {
     color: FireBrick;
     font-family: courier;
-    font-size: 200%;
+    font-size: 150%;
     }
     p1
     {
@@ -42,19 +42,22 @@
     h4{
     color: Chocolate;
     }
+    h5{
+    font-size: 200%;
+    }
     </style>
-   
-        <h1>Welcome to EquaWorld! This is a website for: <br>-People being discriminated in any type of way at work
+
+        <h5><center>Welcome to EquaWorld!<br></center></h5><h1>This is a website for: <br>-People being discriminated in any type of way at work
             <br>-Finding information on laws pertaining to discrimination
             <br>-Finding Lawyers who can represent you<br> </h1>
         <h3>Learn your rights to help combat the growing problem of discrimination!</h3>
-        
+
         <h4>Employment discrimination happens when an employee or job applicant is treated unfavorably because of their race,
              skin color, national origin, gender, disability, religion, or age. Most prevalent in modern society are racism and sexism in the workplace, whose injustices are being targetted by organizations and movements such as the National Society for Black Engineers and Women in STEM.</h4><br>
-	     
-        
+
+
         <p1><b> Examples of discrimination include</b><br>- denying certain employees compensation or benefits<br> -paying equally-qualified employees in the same position different salaries<br>- discriminating when assigning disability leave, maternity leave or retirement options<br> -denying use of company facilities.</p1>
-    
+
     <div> <br> <a href="#Laws">Jump To Laws</a>
      <br>
      <a href="#Reporting">Jump To How to Report Discrimination</a>
@@ -63,19 +66,19 @@
       <br>
        <a href="#Lawyers">Jump To How to get a Lawyer</a></div>
    <h2 id="Laws">Laws</h2>
-   
+
 		<p> <b>The U.S. Equal Employment Opportunity Commission (EEOC) enforces federal laws prohibiting discrimination. Some of these laws are:</b>
         <br>
-	  
--<i>The Civil Rights Act of 1964</i> protects employees and job applicants from employment discrimination based on race, color, religion, sex, and national origin. It also protects students and voters from racial discrimination and segregation.
-<br>-<i>The Pregnancy Discrimination Act of 1978</i>protections regarding “sex” to include prohibiting sex discrimination on the basis of pregnancy, childbirth, and a medical condition related to pregnancy or childbirth.
-<br>-<i>The Equal Pay Act of 1963</i> protects men and women from sex-based wage discrimination in the payment of wages or benefits. It was part of Kennedy's New Frontier Program, with the goal of evening out differences in wage based on sex.
-<br>-<i>The Age Discrimination Act of 1967</i> protects persons 40 years of age or older from age-based employment discrimination. It promotes employment based on ability, regardless of age.
-<br>-<i>The Rehabilitation Act of 1973</i> protects employees and job applicants from employment discrimination based on physical or mental disabilities, if they satisfy the requirements for the job and can reasonably perform required functions for the job.
+
+-<i><a href = "https://www.eeoc.gov/statutes/title-vii-civil-rights-act-1964">The Civil Rights Act of 1964</a></i> protects employees and job applicants from employment discrimination based on race, color, religion, sex, and national origin. It also protects students and voters from racial discrimination and segregation.
+<br>-<i><a href = "https://www.eeoc.gov/statutes/pregnancy-discrimination-act-1978">The Pregnancy Discrimination Act of 1978</a></i>protections regarding “sex” to include prohibiting sex discrimination on the basis of pregnancy, childbirth, and a medical condition related to pregnancy or childbirth.
+<br>-<i><a href = "https://www.eeoc.gov/statutes/equal-pay-act-1963">The Equal Pay act of 1963</a></i> protects men and women from sex-based wage discrimination in the payment of wages or benefits. It was part of Kennedy's New Frontier Program, with the goal of evening out differences in wage based on sex.
+<br>-<i><a href = "https://www.eeoc.gov/statutes/age-discrimination-employment-act-1967">The Age Discrimination Act of 1967</a></i> protects persons 40 years of age or older from age-based employment discrimination. It promotes employment based on ability, regardless of age.
+<br>-<i><a href = "https://www.eeoc.gov/statutes/rehabilitation-act-1973">The Rehabilitation Act of 1973</a></i> protects employees and job applicants from employment discrimination based on physical or mental disabilities, if they satisfy the requirements for the job and can reasonably perform required functions for the job.
 
 <h2 id="Reporting">How to Report Discrimination</h2>
 <p>To start, file a charge of discrimination, a signed statement saying that an employer, union or labor organization engaged in employment discrimination. The EEOC, the Equal Employment Opportunity Commission, will investigate and give you a Notice of Right to Sue when they closed the investigation. Once you receive that, you have 90 days to sue.
-To File a Charge of Discrimination, go through the  
+To File a Charge of Discrimination, go through the
 <a href = "https://publicportal.eeoc.gov/Portal/Login.aspx">EEOC Public Portal</a>. You will also have to submit an an inquiry and an interview.
 <br><br>
 In California, you may file a discrimination complaint with CDSS by e-mail, writing or calling:e-mail to crb@dss.ca.gov,mail to
@@ -87,27 +90,27 @@ Sacramento, CA 95814, or call toll free at (866) 741-6241; collect calling at (8
     If you are a federal employ, there is a different procedure.  The first step is to contact an EEO Counselor within 45 days. The counselor will give you the option of participating in counseling or alternate dispute resolution. If you cannot resolve it, you can file a formal discrimination complaint against the agency with the agency's EEO Office within 15 days. Once you have filed it, the agency will decide whether to dismiss it or not and conduct an investigation. When the investigation is finished, the agency will issue a notice giving you two choices: either request a hearing before an EEOC Administrative Judge or ask the agency to issue a decision as to whether the discrimination occurred. If you want to ask for a hearing, you must make your request in writing or via the EEOC Public Portal located at
     <a href = "https://publicportal.eeoc.gov/.">EEOC Public Portal</a>. If you ask the agency to issue a decision and no discrimination is found, or if you disagree with some part of the decision, you can appeal the decision to EEOC or challenge it in federal district court.
     </p>
-     
+
 <h2 id="Lawyers">Jump To How to get a Lawyer</h2>
 <p>
-If you choose to file a lawsuit, you may need a lawyer. 
+If you choose to file a lawsuit, you may need a lawyer.
 
-<br><br> 
+<br><br>
 
 <a href = "http://apps.americanbar.org/legalservices/lris/directory/">American Bar Association</a>. The American Bar Association is one of the world's largest voluntary professional organizations, with over 400000 members.<br><br>
 
 <a href = "http://exchange.nela.org/network/findalawyer">National Employment Lawyers Association</a>The National Employment Lawyers Association(NELA) is a national professional organization of attorneys who represent employees in employment law cases.<br><br>
 
-<a href = "http://www.workplacefairness.org/find-attorney">The Workplace Fairness Attorney Directory</a> The Workplace Fairness Attorney Directory features lawyers from across the United States who primarily represent workers in employment cases. 
+<a href = "http://www.workplacefairness.org/find-attorney">The Workplace Fairness Attorney Directory</a> The Workplace Fairness Attorney Directory features lawyers from across the United States who primarily represent workers in employment cases.
 <br>
 There are also several law firms who will offer free consultations and legal advice:
 <br><br>
 <a href = "https://www.forthepeople.com/labor-and-employment-lawyers/discrimination/">Morgan & Morgan law firm</a>. They offer a free consultation and can also be consulted at 877 906 7509
 <br><br>
-<a href = "https://www.bamlawca.com/"> Blumenthal Nordrehaug Bhowmik De Blouw LLP</a>. They are a law firm that specializes in employment law and offers free consultation. You can also contact them at  800-568-8020 
+<a href = "https://www.bamlawca.com/"> Blumenthal Nordrehaug Bhowmik De Blouw LLP</a>. They are a law firm that specializes in employment law and offers free consultation. You can also contact them at  800-568-8020
 <br><br>
-<a href = "https://www.fedemploymentlaw.com/Contact.shtml">The Devadoss Law Firm, P.L.L.C.</a> The Devadoss Law Firm, P.L.L.C. represents federal employs across the USA. They can be contacted at 888-351-0424 
+<a href = "https://www.fedemploymentlaw.com/Contact.shtml">The Devadoss Law Firm, P.L.L.C.</a> The Devadoss Law Firm, P.L.L.C. represents federal employs across the USA. They can be contacted at 888-351-0424
 </p>
-        
+
     </body>
 </html>
